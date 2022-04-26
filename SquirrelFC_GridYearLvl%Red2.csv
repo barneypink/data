@@ -1,4 +1,4 @@
-﻿Year,OSGR10km,Latitude(WGS84),Longitude(WGS84),Forest Cover(%),CountRed,CountGrey,%Red,%Grey
+﻿Year,OSGR10km,Latitude(WGS84),Longitude(WGS84),Forest Cover (%),CountRed,CountGrey,%Red,%Grey
 2008,NH05,57.56467,-5.30615,0.175468408,1,0,1,0
 2008,NH15,57.50567,-5.080381,0.100516599,3,0,1,0
 2008,NH18,57.8571,-5.118712,0.145408254,1,0,1,0
